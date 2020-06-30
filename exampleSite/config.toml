@@ -1,4 +1,4 @@
-baseURL = "https://swan-test.netlify.com"
+baseURL = "https://swan-test.netlify.app"
 disableLanguages = []
 disqusShortname = ""
 paginate = "6"
