@@ -3,8 +3,8 @@ disableLanguages = []
 disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
-theme = "meghna-hugo"
-title = "Meghna"
+theme = "swansite"
+title = "swansite"
 [Languages.en]
 contentDir = "content/english"
 copyright = "copyright &copy; 2020 [gethugothemes](https://gethugothemes.com) all right reserved"
